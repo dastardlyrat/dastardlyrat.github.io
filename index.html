@@ -36,6 +36,13 @@
     .project:hover, .project:focus-within { background: var(--surface); }
     h2 { font-size: clamp(1.25rem, 2.2vw, 1.7rem); font-weight: 600; line-height: 1.3; letter-spacing: -.02em; margin: 0; overflow-wrap: anywhere; }
     .project p { color: var(--muted); margin: 0; }
+    .discovery { border-top: 1px solid var(--line); margin-top: 2rem; padding: 2rem 0; }
+    .discovery > p { color: var(--muted); }
+    .discovery-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,18rem),1fr)); gap: 1rem; margin: 1rem 0; }
+    .discovery-card { border: 1px solid var(--line); background: var(--surface); padding: 1.2rem; border-radius: 8px; }
+    .discovery-card h3 { font-size: 1.12rem; margin: 0 0 .5rem; }
+    .discovery-card p { color: var(--muted); font-size: .98rem; margin: 0; }
+    .research-meta { font-size: .92rem; }
     footer { padding-block: 2.5rem 3rem; color: var(--muted); font-size: 1rem; }
     @media (max-width: 44rem) { .project { grid-template-columns: 1fr; gap: .75rem; padding-inline: 0; } .wrap { width: min(72rem, 100% - 2rem); } .masthead { padding-block: 1.3rem; } }
     @media (forced-colors: active) { .project { border-color: CanvasText; } a:focus-visible { outline-color: Highlight; } }
@@ -173,11 +180,11 @@
 <body>
   <a class="skip" href="#projects">Skip to projects</a>
   <div class="wrap">
-    <header class="masthead"><span class="brand">dastardlyrat</span><nav aria-label="Profile"><a href="https://github.com/dastardlyrat">GitHub profile</a></nav></header>
+    <header class="masthead"><span class="brand">dastardlyrat</span><nav aria-label="Site navigation"><a href="research.html">Research map</a> · <a href="machine.html">Machine index</a> · <a href="https://github.com/dastardlyrat">GitHub profile</a></nav></header>
     <main id="projects">
       <div class="intro">
         <h1>Research, graphics<br>&amp; system tools</h1>
-        <p>Public projects in AI collaboration, research ethics, agent design, language tooling, ReShade rendering, and Windows system inspection.</p>
+        <p>Public projects in AI collaboration, research ethics, agent design, language tooling, ReShade rendering, and Windows system inspection. <a href="research.html">Explore the documented research map</a> or <a href="machine.html">machine-readable entry points</a>.</p>
         <nav class="group-links" aria-label="Project categories"><a href="#ai-methodology">AI &amp; methodology</a><a href="#language-workflows">Language &amp; workflows</a><a href="#reshade">ReShade</a><a href="#windows">Windows</a></nav>
       </div>
     <section class="group" id="ai-methodology" aria-labelledby="ai-methodology-title">
@@ -218,6 +225,17 @@
         <li class="project"><h3><a href="https://github.com/dastardlyrat/WindowsPowerPlanExplorer">WindowsPowerPlanExplorer</a></h3><p>Inspect Windows power plans, AC/DC settings, and wake/device diagnostics, with optional plan edits that require confirmation and a new backup.</p></li>
         <li class="project"><h3><a href="https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer">WindowsSecuritySettingsExplorer</a></h3><p>Inspect Windows security policies, configuration evidence, and reported system state in a read-only interface that exposes partial and unavailable results.</p></li>
       </ul>
+    </section>
+    <section class="discovery" aria-labelledby="discovery-title">
+      <h2 id="discovery-title">Research pathways and machine discovery</h2>
+      <p>Find the exact source entry, provenance, and license before using a research result. Public projects do not automatically authorize extraction of personal methodological profiles.</p>
+      <div class="discovery-grid">
+        <div class="discovery-card"><h3><a href="research.html#ai">Ethics and collaboration</a></h3><p>Agent research, consent doctrine, m.A.R.S., identity atoms and separately versioned theoretical work.</p></div>
+        <div class="discovery-card"><h3><a href="research.html#rendering">ReShade and imaging</a></h3><p>OpenSurface, Occult Box, Lazara, presets, experiments, and evidence boundaries.</p></div>
+        <div class="discovery-card"><h3><a href="research.html#windows">Windows tools</a></h3><p>Source-led system observation and configuration exploration with project-specific limits.</p></div>
+        <div class="discovery-card"><h3><a href="machine.html">Machine-oriented index</a></h3><p>Curated public JSON catalog, source resolution, reference contracts, and fail-closed routing.</p></div>
+      </div>
+      <p class="research-meta"><a href="research-index.json">Public JSON catalog</a> · <a href="https://alia-june.github.io/research.html">Related alia-june research directory</a> · Snapshot: 23 November 2026. This website does not activate controllers or certify prototypes.</p>
     </section>
     </main>
     <footer>Source, documentation, and project-specific scope are available in each repository. <a href="https://github.com/dastardlyrat/dastardlyrat.github.io">Directory source</a></footer>

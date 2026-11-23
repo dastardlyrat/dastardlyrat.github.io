@@ -17,7 +17,7 @@ The GitHub connector identified 21 repositories: **20 public and one private**. 
 | Pages website and navigation | 1 |
 | **Total** | **20** |
 
-The [structured catalog](research-index.json) contains **64 selected entry points** across the 20 public repositories at this dated snapshot.
+The [structured catalog](research-index.json) contains **63 unique selected entry points** across the 20 public repositories at this dated snapshot.
 
 ## Actions recorded
 
@@ -32,7 +32,7 @@ The [structured catalog](research-index.json) contains **64 selected entry point
 ## Evidence and limitations
 
 - The source inventory was read through the connected GitHub account.
-- Entry-point path checks verify existence and availability from GitHub but do not validate all document claims, code functionality, rights, or safety.
+- **63/63 unique cataloged source paths** were successfully fetched from their owning repositories after publication. The JSON schema parsed, and repository-path pairs are unique. This does not validate all document claims, code functionality, rights, or safety.
 - The dastardlyrat and alia-june repositories may carry different revisions or descriptions even when their names match. No silent cross-account synchronization is implied.
 - Public source access does not permit unauthorized fingerprinting of a creator's characteristic methodology or reconstruction of a private personal model.
 - Candidate prototypes, machine landing pads, proposed gates, design-only registries, and source catalogs do **not** become active runtime authority by being indexed.

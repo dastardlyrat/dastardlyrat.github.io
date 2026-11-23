@@ -17,7 +17,7 @@ The GitHub connector identified 21 repositories: **20 public and one private**. 
 | Pages website and navigation | 1 |
 | **Total** | **20** |
 
-The [structured catalog](research-index.json) contains **63 selected entry points** across the 20 public repositories at this dated snapshot.
+The [structured catalog](research-index.json) contains **64 selected entry points** across the 20 public repositories at this dated snapshot.
 
 ## Actions recorded
 

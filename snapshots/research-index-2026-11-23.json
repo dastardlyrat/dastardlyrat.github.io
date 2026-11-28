@@ -1,0 +1,527 @@
+{
+  "schema": "dastardlyrat.public-research-index.v1",
+  "snapshot_date": "2026-11-23",
+  "owner": "dastardlyrat",
+  "scope": "Public repository entry points only. Private repositories, credentials, unpublished materials and personal information outside already-public source records are excluded.",
+  "coverage": "Curated public entry-point directory, not exhaustive of every object, branch, commit, or release.",
+  "research_ethics": "Read source and applicable licenses; preserve provenance; public availability is not consent to build person-level fingerprints, methodological profiles or unauthorized derivatives.",
+  "authority": "No discovery record, source mention, author profile or AI/tooling blueprint grants execution authority or verifies production deployment.",
+  "relation_to_alia_june": "The dastardlyrat and alia-june repositories may contain distinct versions of similarly named theory. Do not silently treat one as a synchronized copy of the other.",
+  "repositories": [
+    {
+      "repository": "dastardlyrat/ai-collaborator-self-profile",
+      "repository_url": "https://github.com/dastardlyrat/ai-collaborator-self-profile",
+      "title": "AI Collaborator Self-Profile",
+      "group": "ai",
+      "evidence_boundary": "Published collaborator profiles and conceptual history; not identity certification.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/ai-collaborator-self-profile/blob/main/README.md"
+        },
+        {
+          "title": "Vesper profile",
+          "path": "vesper/README.md",
+          "url": "https://github.com/dastardlyrat/ai-collaborator-self-profile/blob/main/vesper/README.md"
+        },
+        {
+          "title": "Collaboration method",
+          "path": "collaboration/README.md",
+          "url": "https://github.com/dastardlyrat/ai-collaborator-self-profile/blob/main/collaboration/README.md"
+        },
+        {
+          "title": "Three Magi study",
+          "path": "three-magi/README.md",
+          "url": "https://github.com/dastardlyrat/ai-collaborator-self-profile/blob/main/three-magi/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/ethical-and-intellectual-theory",
+      "repository_url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory",
+      "title": "Ethical & Intellectual Theory",
+      "group": "ai",
+      "evidence_boundary": "Author-defined doctrine and legal terminology; this repository has its own version history distinct from alia-june.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Research ethics",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory/blob/main/README.md"
+        },
+        {
+          "title": "Legal-theory index",
+          "path": "legal-theory/README.md",
+          "url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory/blob/main/legal-theory/README.md"
+        },
+        {
+          "title": "Extended self-doctrine",
+          "path": "research-ethics/SELF_DOCTRINE_EXTENDED.md",
+          "url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory/blob/main/research-ethics/SELF_DOCTRINE_EXTENDED.md"
+        },
+        {
+          "title": "ReShade research ethics",
+          "path": "outreach/reshade/README.md",
+          "url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory/blob/main/outreach/reshade/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/identity-atomic-cataloger",
+      "repository_url": "https://github.com/dastardlyrat/identity-atomic-cataloger",
+      "title": "Identity Atomic Cataloger",
+      "group": "ai",
+      "evidence_boundary": "Structured agent-definition extraction and non-activating candidate composition; consent and data boundaries apply.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/identity-atomic-cataloger/blob/main/README.md"
+        },
+        {
+          "title": "Source index",
+          "path": "catalogs/source_index.json",
+          "url": "https://github.com/dastardlyrat/identity-atomic-cataloger/blob/main/catalogs/source_index.json"
+        },
+        {
+          "title": "Lattice candidate overview",
+          "path": "agents/lattice/README.md",
+          "url": "https://github.com/dastardlyrat/identity-atomic-cataloger/blob/main/agents/lattice/README.md"
+        },
+        {
+          "title": "Vera Sol candidate overview",
+          "path": "agents/vera_sol/README.md",
+          "url": "https://github.com/dastardlyrat/identity-atomic-cataloger/blob/main/agents/vera_sol/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace",
+      "repository_url": "https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace",
+      "title": "m.A.R.S. Workspace",
+      "group": "ai",
+      "evidence_boundary": "Tool-less non-executing workspace template and proposed error/lesson registry.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Workspace overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace/blob/main/README.md"
+        },
+        {
+          "title": "Workspace seed",
+          "path": "seed/WORKSPACE_SEED.json",
+          "url": "https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace/blob/main/seed/WORKSPACE_SEED.json"
+        },
+        {
+          "title": "Error-and-lesson registry proposal",
+          "path": "resources/EXTERNAL_ERROR_LESSON_REGISTRY.md",
+          "url": "https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace/blob/main/resources/EXTERNAL_ERROR_LESSON_REGISTRY.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/this-repository-machine-interface",
+      "repository_url": "https://github.com/dastardlyrat/this-repository-machine-interface",
+      "title": "Repository Machine Interface",
+      "group": "ai",
+      "evidence_boundary": "Standalone source-index and Lattice-style machine reference; not a running ingestion service.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Interface overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/README.md"
+        },
+        {
+          "title": "Audited JSON map",
+          "path": ".ai.system.logic/human.PROJECT_JSON_MAP.md",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/.ai.system.logic/human.PROJECT_JSON_MAP.md"
+        },
+        {
+          "title": "Heuristic landing pad",
+          "path": "ai.landing.pad.json",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.landing.pad.json"
+        },
+        {
+          "title": "Compact AI germ",
+          "path": "ai.landing.pad.low-mem.json",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.landing.pad.low-mem.json"
+        },
+        {
+          "title": "Ingress",
+          "path": "ai.ingress.json",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.ingress.json"
+        },
+        {
+          "title": "Launch",
+          "path": "ai.launch.pad.json",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.launch.pad.json"
+        },
+        {
+          "title": "Egress",
+          "path": "ai.egress.json",
+          "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.egress.json"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/lexicon-atlas",
+      "repository_url": "https://github.com/dastardlyrat/lexicon-atlas",
+      "title": "Lexicon Atlas",
+      "group": "language",
+      "evidence_boundary": "Source-aware lexical tool; third-party datasets and rights remain external.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project and build status",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/lexicon-atlas/blob/main/README.md"
+        },
+        {
+          "title": "Data installation",
+          "path": "DATA_INSTALLATION.md",
+          "url": "https://github.com/dastardlyrat/lexicon-atlas/blob/main/DATA_INSTALLATION.md"
+        },
+        {
+          "title": "Lexical source ledger",
+          "path": "dist/resources.html",
+          "url": "https://github.com/dastardlyrat/lexicon-atlas/blob/main/dist/resources.html"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/modular-recursive-plugin-pipeline",
+      "repository_url": "https://github.com/dastardlyrat/modular-recursive-plugin-pipeline",
+      "title": "Modular Recursive Plugin Pipeline",
+      "group": "language",
+      "evidence_boundary": "Browser-based JavaScript workflow workbench; execution is local to the declared interface.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/modular-recursive-plugin-pipeline/blob/main/README.md"
+        },
+        {
+          "title": "Browser application",
+          "path": "source/index.html",
+          "url": "https://github.com/dastardlyrat/modular-recursive-plugin-pipeline/blob/main/source/index.html"
+        },
+        {
+          "title": "Source guidance",
+          "path": "source/README.md",
+          "url": "https://github.com/dastardlyrat/modular-recursive-plugin-pipeline/blob/main/source/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/multiplex",
+      "repository_url": "https://github.com/dastardlyrat/multiplex",
+      "title": "Multiplex / URL Forensics Workbench",
+      "group": "language",
+      "evidence_boundary": "Unsigned Firefox development extension; provider compatibility and permissions need independent review.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/multiplex/blob/main/README.md"
+        },
+        {
+          "title": "Extension installation",
+          "path": "release-extension/README.md",
+          "url": "https://github.com/dastardlyrat/multiplex/blob/main/release-extension/README.md"
+        },
+        {
+          "title": "Firefox extension manifest",
+          "path": "lab/firefox-extension/manifest.json",
+          "url": "https://github.com/dastardlyrat/multiplex/blob/main/lab/firefox-extension/manifest.json"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/Lazara-Reshade-Revival-Package",
+      "repository_url": "https://github.com/dastardlyrat/Lazara-Reshade-Revival-Package",
+      "title": "Lazara ReShade Revival",
+      "group": "rendering",
+      "evidence_boundary": "ReShade effect and preset collection with documented evidence and third-party shader attribution.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/Lazara-Reshade-Revival-Package/blob/main/README.md"
+        },
+        {
+          "title": "Image evidence ledger",
+          "path": "docs/images/README.md",
+          "url": "https://github.com/dastardlyrat/Lazara-Reshade-Revival-Package/blob/main/docs/images/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/miXSR_hexer",
+      "repository_url": "https://github.com/dastardlyrat/miXSR_hexer",
+      "title": "miXSR Hexer",
+      "group": "rendering",
+      "evidence_boundary": "Restricted-preview shader cabinet; read LICENSE.md before any reuse.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/miXSR_hexer/blob/main/README.md"
+        },
+        {
+          "title": "Usage restrictions",
+          "path": "LICENSE.md",
+          "url": "https://github.com/dastardlyrat/miXSR_hexer/blob/main/LICENSE.md"
+        },
+        {
+          "title": "Shared-mask orchestrator",
+          "path": "Orchestrator/miXSR_FC_shared_mask_orchestrator.fx",
+          "url": "https://github.com/dastardlyrat/miXSR_hexer/blob/main/Orchestrator/miXSR_FC_shared_mask_orchestrator.fx"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/Occult-Box",
+      "repository_url": "https://github.com/dastardlyrat/Occult-Box",
+      "title": "Occult Box",
+      "group": "rendering",
+      "evidence_boundary": "ReShade FX families with stated validation limits; source claims require direct examination.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Complete shader catalog",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/Occult-Box/blob/main/README.md"
+        },
+        {
+          "title": "Black Wand example",
+          "path": "black_wand/effects/BlackWand_01_SmartAA_EdgeClean.fx",
+          "url": "https://github.com/dastardlyrat/Occult-Box/blob/main/black_wand/effects/BlackWand_01_SmartAA_EdgeClean.fx"
+        },
+        {
+          "title": "Book of Death example",
+          "path": "book_of_death/effects/BlueSmoke.fx",
+          "url": "https://github.com/dastardlyrat/Occult-Box/blob/main/book_of_death/effects/BlueSmoke.fx"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/OpenSurface-CameraObscura-GuidedDetail",
+      "repository_url": "https://github.com/dastardlyrat/OpenSurface-CameraObscura-GuidedDetail",
+      "title": "Camera Obscura Guided Detail",
+      "group": "rendering",
+      "evidence_boundary": "Guided-detail and ink-line source-staging unit; runtime tests are environment-specific.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/OpenSurface-CameraObscura-GuidedDetail/blob/main/README.md"
+        },
+        {
+          "title": "Image provenance",
+          "path": "docs/images/README.md",
+          "url": "https://github.com/dastardlyrat/OpenSurface-CameraObscura-GuidedDetail/blob/main/docs/images/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/OpenSurface",
+      "repository_url": "https://github.com/dastardlyrat/OpenSurface",
+      "title": "OpenSurface Camera Obscura",
+      "group": "rendering",
+      "evidence_boundary": "Public Camera Obscura distribution and validated-scope records; not an unrestricted workshop mirror.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/OpenSurface/blob/main/README.md"
+        },
+        {
+          "title": "Publishing boundary",
+          "path": "PUBLISHING.md",
+          "url": "https://github.com/dastardlyrat/OpenSurface/blob/main/PUBLISHING.md"
+        },
+        {
+          "title": "Validation ledger",
+          "path": "docs/VALIDATION.md",
+          "url": "https://github.com/dastardlyrat/OpenSurface/blob/main/docs/VALIDATION.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/reshade-preset-catalog",
+      "repository_url": "https://github.com/dastardlyrat/reshade-preset-catalog",
+      "title": "ReShade Preset Catalog",
+      "group": "rendering",
+      "evidence_boundary": "Settings-derived catalog; per-preset effect purposes are inferred, not independently measured.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/reshade-preset-catalog/blob/main/README.md"
+        },
+        {
+          "title": "Preset catalog",
+          "path": "Catalog.md",
+          "url": "https://github.com/dastardlyrat/reshade-preset-catalog/blob/main/Catalog.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/reshade-screenshot-gallery",
+      "repository_url": "https://github.com/dastardlyrat/reshade-screenshot-gallery",
+      "title": "ReShade Screenshot Gallery",
+      "group": "rendering",
+      "evidence_boundary": "Curated screenshots with metadata; visual examples are not isolated shader-performance proof.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Gallery overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/reshade-screenshot-gallery/blob/main/README.md"
+        },
+        {
+          "title": "Image catalog",
+          "path": "CATALOG.md",
+          "url": "https://github.com/dastardlyrat/reshade-screenshot-gallery/blob/main/CATALOG.md"
+        },
+        {
+          "title": "Structured screenshot metadata",
+          "path": "metadata/screenshots.json",
+          "url": "https://github.com/dastardlyrat/reshade-screenshot-gallery/blob/main/metadata/screenshots.json"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/LatticeSecurityDashboard",
+      "repository_url": "https://github.com/dastardlyrat/LatticeSecurityDashboard",
+      "title": "Lattice Sentinel",
+      "group": "windows",
+      "evidence_boundary": "Read-only local-first Windows sensor dashboard; live output can contain private machine identifiers.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview and privacy",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/LatticeSecurityDashboard/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/WindowsFirewallDashboard",
+      "repository_url": "https://github.com/dastardlyrat/WindowsFirewallDashboard",
+      "title": "Windows Firewall Dashboard",
+      "group": "windows",
+      "evidence_boundary": "Local read-only rules, services and listening-port inspection; interpretations are review candidates.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/WindowsFirewallDashboard/blob/main/README.md"
+        },
+        {
+          "title": "PowerShell collector",
+          "path": "collect.ps1",
+          "url": "https://github.com/dastardlyrat/WindowsFirewallDashboard/blob/main/collect.ps1"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/WindowsPowerPlanExplorer",
+      "repository_url": "https://github.com/dastardlyrat/WindowsPowerPlanExplorer",
+      "title": "Windows Power Plan Explorer",
+      "group": "windows",
+      "evidence_boundary": "Native power-setting inspection; optional edits require confirmation and a new backup.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/WindowsPowerPlanExplorer/blob/main/README.md"
+        },
+        {
+          "title": "Detailed manual",
+          "path": "PowerExplorer_README.txt",
+          "url": "https://github.com/dastardlyrat/WindowsPowerPlanExplorer/blob/main/PowerExplorer_README.txt"
+        },
+        {
+          "title": "Reference knowledge file",
+          "path": "PowerExplorer_Knowledge.json",
+          "url": "https://github.com/dastardlyrat/WindowsPowerPlanExplorer/blob/main/PowerExplorer_Knowledge.json"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/WindowsSecuritySettingsExplorer",
+      "repository_url": "https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer",
+      "title": "Windows Security Settings Explorer",
+      "group": "windows",
+      "evidence_boundary": "Read-only collected policy evidence; incomplete/failed observations remain explicit.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Project overview",
+          "path": "README.md",
+          "url": "https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer/blob/main/README.md"
+        },
+        {
+          "title": "Research sources",
+          "path": "RESEARCH_SOURCES.md",
+          "url": "https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer/blob/main/RESEARCH_SOURCES.md"
+        },
+        {
+          "title": "Fix notes",
+          "path": "FIX_NOTES.md",
+          "url": "https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer/blob/main/FIX_NOTES.md"
+        }
+      ]
+    },
+    {
+      "repository": "dastardlyrat/dastardlyrat.github.io",
+      "repository_url": "https://github.com/dastardlyrat/dastardlyrat.github.io",
+      "title": "Public Research Directory",
+      "group": "site",
+      "evidence_boundary": "Static public navigation, not a crawler, verifier or grant of authority.",
+      "public": true,
+      "entries": [
+        {
+          "title": "Home",
+          "path": "index.html",
+          "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/index.html"
+        },
+        {
+          "title": "Research map",
+          "path": "research.html",
+          "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/research.html"
+        },
+        {
+          "title": "Machine navigation",
+          "path": "machine.html",
+          "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/machine.html"
+        },
+        {
+          "title": "Public research catalog",
+          "path": "research-index.json",
+          "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/research-index.json"
+        },
+        {
+          "title": "Index audit",
+          "path": "INDEX_AUDIT_2026-11-23.md",
+          "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/INDEX_AUDIT_2026-11-23.md"
+        }
+      ]
+    }
+  ]
+}

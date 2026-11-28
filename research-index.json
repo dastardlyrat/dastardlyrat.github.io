@@ -1,6 +1,6 @@
 {
   "schema": "dastardlyrat.public-research-index.v1",
-  "snapshot_date": "2026-11-23",
+  "snapshot_date": "2026-11-28",
   "owner": "dastardlyrat",
   "scope": "Public repository entry points only. Private repositories, credentials, unpublished materials and personal information outside already-public source records are excluded.",
   "coverage": "Curated public entry-point directory, not exhaustive of every object, branch, commit, or release.",
@@ -36,7 +36,9 @@
           "path": "three-magi/README.md",
           "url": "https://github.com/dastardlyrat/ai-collaborator-self-profile/blob/main/three-magi/README.md"
         }
-      ]
+      ],
+      "source_commit": "f24ac2ef32368527299d32a4ac317b7aaa39278d",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/ethical-and-intellectual-theory",
@@ -66,7 +68,9 @@
           "path": "outreach/reshade/README.md",
           "url": "https://github.com/dastardlyrat/ethical-and-intellectual-theory/blob/main/outreach/reshade/README.md"
         }
-      ]
+      ],
+      "source_commit": "ba124d54fe7abcb1c67644919660c6ce7f950c09",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/identity-atomic-cataloger",
@@ -96,7 +100,9 @@
           "path": "agents/vera_sol/README.md",
           "url": "https://github.com/dastardlyrat/identity-atomic-cataloger/blob/main/agents/vera_sol/README.md"
         }
-      ]
+      ],
+      "source_commit": "2c1fe9d8c7a4164cc1df9f842c253d073c555f25",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace",
@@ -121,7 +127,9 @@
           "path": "resources/EXTERNAL_ERROR_LESSON_REGISTRY.md",
           "url": "https://github.com/dastardlyrat/m.A.R.S.-Persistent-Tool-less-Amorphous-Workspace/blob/main/resources/EXTERNAL_ERROR_LESSON_REGISTRY.md"
         }
-      ]
+      ],
+      "source_commit": "286a373d5cd8fd6e7ae4f38eb538c386f0a08377",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/this-repository-machine-interface",
@@ -166,7 +174,9 @@
           "path": "ai.egress.json",
           "url": "https://github.com/dastardlyrat/this-repository-machine-interface/blob/main/ai.egress.json"
         }
-      ]
+      ],
+      "source_commit": "c679b8f6607ef48f6bd9882feb2cb6b48a437f49",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/lexicon-atlas",
@@ -191,7 +201,9 @@
           "path": "dist/resources.html",
           "url": "https://github.com/dastardlyrat/lexicon-atlas/blob/main/dist/resources.html"
         }
-      ]
+      ],
+      "source_commit": "f12962e420149f477665d7eb6bc892ad62f18e59",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/modular-recursive-plugin-pipeline",
@@ -216,7 +228,9 @@
           "path": "source/README.md",
           "url": "https://github.com/dastardlyrat/modular-recursive-plugin-pipeline/blob/main/source/README.md"
         }
-      ]
+      ],
+      "source_commit": "3edd70485007d1b5456fc8f93ffd04cd508fe4ac",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/multiplex",
@@ -241,7 +255,9 @@
           "path": "lab/firefox-extension/manifest.json",
           "url": "https://github.com/dastardlyrat/multiplex/blob/main/lab/firefox-extension/manifest.json"
         }
-      ]
+      ],
+      "source_commit": "280872ad9bce40c0cb23db4502ce9524524e37c7",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/Lazara-Reshade-Revival-Package",
@@ -261,7 +277,9 @@
           "path": "docs/images/README.md",
           "url": "https://github.com/dastardlyrat/Lazara-Reshade-Revival-Package/blob/main/docs/images/README.md"
         }
-      ]
+      ],
+      "source_commit": "647168446ab91ca229e92fb99ada263b522de094",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/miXSR_hexer",
@@ -286,7 +304,9 @@
           "path": "Orchestrator/miXSR_FC_shared_mask_orchestrator.fx",
           "url": "https://github.com/dastardlyrat/miXSR_hexer/blob/main/Orchestrator/miXSR_FC_shared_mask_orchestrator.fx"
         }
-      ]
+      ],
+      "source_commit": "02933336b636739578d88df3fd948a647f97e72a",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/Occult-Box",
@@ -311,7 +331,9 @@
           "path": "book_of_death/effects/BlueSmoke.fx",
           "url": "https://github.com/dastardlyrat/Occult-Box/blob/main/book_of_death/effects/BlueSmoke.fx"
         }
-      ]
+      ],
+      "source_commit": "e382d9487600b718289257b8c58f92a8c89b858d",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/OpenSurface-CameraObscura-GuidedDetail",
@@ -331,7 +353,9 @@
           "path": "docs/images/README.md",
           "url": "https://github.com/dastardlyrat/OpenSurface-CameraObscura-GuidedDetail/blob/main/docs/images/README.md"
         }
-      ]
+      ],
+      "source_commit": "70b8d84c9c70b09a6b78aafda759605ca461e21f",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/OpenSurface",
@@ -356,7 +380,9 @@
           "path": "docs/VALIDATION.md",
           "url": "https://github.com/dastardlyrat/OpenSurface/blob/main/docs/VALIDATION.md"
         }
-      ]
+      ],
+      "source_commit": "9232e5aaba1e95b8c141e4fa8508fae2fcc428a6",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/reshade-preset-catalog",
@@ -376,7 +402,9 @@
           "path": "Catalog.md",
           "url": "https://github.com/dastardlyrat/reshade-preset-catalog/blob/main/Catalog.md"
         }
-      ]
+      ],
+      "source_commit": "42972196723b5545c4060e2be10300998d8783fb",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/reshade-screenshot-gallery",
@@ -401,7 +429,9 @@
           "path": "metadata/screenshots.json",
           "url": "https://github.com/dastardlyrat/reshade-screenshot-gallery/blob/main/metadata/screenshots.json"
         }
-      ]
+      ],
+      "source_commit": "5918257694e5c38c3394f84b3ba4181e40440ef0",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/LatticeSecurityDashboard",
@@ -416,7 +446,9 @@
           "path": "README.md",
           "url": "https://github.com/dastardlyrat/LatticeSecurityDashboard/blob/main/README.md"
         }
-      ]
+      ],
+      "source_commit": "fdd9e846fed928e8a4be04b2e61558ae26df1d5c",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/WindowsFirewallDashboard",
@@ -436,7 +468,9 @@
           "path": "collect.ps1",
           "url": "https://github.com/dastardlyrat/WindowsFirewallDashboard/blob/main/collect.ps1"
         }
-      ]
+      ],
+      "source_commit": "f5682c228454002689ee8772b94cde2d7f85002f",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/WindowsPowerPlanExplorer",
@@ -461,7 +495,9 @@
           "path": "PowerExplorer_Knowledge.json",
           "url": "https://github.com/dastardlyrat/WindowsPowerPlanExplorer/blob/main/PowerExplorer_Knowledge.json"
         }
-      ]
+      ],
+      "source_commit": "195922ae08d848e6a73944c7feff1be95b359381",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/WindowsSecuritySettingsExplorer",
@@ -486,7 +522,9 @@
           "path": "FIX_NOTES.md",
           "url": "https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer/blob/main/FIX_NOTES.md"
         }
-      ]
+      ],
+      "source_commit": "a4578b0432047728a3de5bc9d85bbc35c4ac0ebd",
+      "source_checked_on": "2026-11-28"
     },
     {
       "repository": "dastardlyrat/dastardlyrat.github.io",
@@ -521,7 +559,94 @@
           "path": "INDEX_AUDIT_2026-11-23.md",
           "url": "https://github.com/dastardlyrat/dastardlyrat.github.io/blob/main/INDEX_AUDIT_2026-11-23.md"
         }
-      ]
+      ],
+      "source_commit": "dfc4baef7a6a7a6211e5ffe76bd28ded96acb70e",
+      "source_checked_on": "2026-11-28"
+    },
+    {
+      "repository": "dastardlyrat/lazara",
+      "repository_url": "https://github.com/dastardlyrat/lazara",
+      "title": "Lazara core",
+      "group": "rendering",
+      "subject": "Source-derived color recovery and intentional degradation",
+      "evidence_boundary": "Owner-authorized public source; recorded static checks remain separate from pending live ReShade acceptance.",
+      "entries": [
+        {
+          "title": "Core overview, processing and controls",
+          "path": "README.md",
+          "kind": "guide",
+          "url": "https://github.com/dastardlyrat/lazara/blob/main/README.md"
+        },
+        {
+          "title": "Recorded validation and live-test limits",
+          "path": "docs/VALIDATION.md",
+          "kind": "guide",
+          "url": "https://github.com/dastardlyrat/lazara/blob/main/docs/VALIDATION.md"
+        }
+      ],
+      "public": true,
+      "source_commit": "f9bd52ea438f69235bf25265b60dd83dd6e17935",
+      "source_checked_on": "2026-11-28"
+    },
+    {
+      "repository": "dastardlyrat/gobadan-head-study-generator",
+      "repository_url": "https://github.com/dastardlyrat/gobadan-head-study-generator",
+      "title": "Gobadan Head Study Generator",
+      "group": "studies",
+      "subject": "Source-linked character studies and image-generation guidance",
+      "evidence_boundary": "Original artwork/design credited to Maufus; AI-assisted studies retain source observations and uncertainty.",
+      "entries": [
+        {
+          "title": "Source studies and usage boundaries",
+          "path": "README.md",
+          "kind": "guide",
+          "url": "https://github.com/dastardlyrat/gobadan-head-study-generator/blob/main/README.md"
+        }
+      ],
+      "public": true,
+      "source_commit": "2b4de1c9197c1c040c4395b073c2dd032081c6fb",
+      "source_checked_on": "2026-11-28"
+    },
+    {
+      "repository": "dastardlyrat/moradune-forensic-image-study",
+      "repository_url": "https://github.com/dastardlyrat/moradune-forensic-image-study",
+      "title": "Moradune Forensic Image Study",
+      "group": "studies",
+      "subject": "Four source drawing studies, lossless crops and cross-study records",
+      "evidence_boundary": "Source-linked visual study with observations and uncertainty; no independent biological or historical truth claim.",
+      "entries": [
+        {
+          "title": "Study overview and attribution",
+          "path": "README.md",
+          "kind": "guide",
+          "url": "https://github.com/dastardlyrat/moradune-forensic-image-study/blob/main/README.md"
+        },
+        {
+          "title": "Cross-study record",
+          "path": "moradune_cross_study.json",
+          "kind": "guide",
+          "url": "https://github.com/dastardlyrat/moradune-forensic-image-study/blob/main/moradune_cross_study.json"
+        }
+      ],
+      "public": true,
+      "source_commit": "291681fa1d6c11a9a51a2c382d22234978be0fed",
+      "source_checked_on": "2026-11-28"
     }
-  ]
+  ],
+  "previous_snapshot": "snapshots/research-index-2026-11-23.json",
+  "gate_version_route": {
+    "status": "PROPOSED_NOT_ADOPTED",
+    "ordered_gates": 7,
+    "erratum_date": "2026-11-25",
+    "source_repository": "alia-june/ethical-and-intellectual-theory",
+    "source_commit": "fa1de43c27557c9f4e277d8dd6fbd9fc96a46cae",
+    "contract_url": "https://github.com/alia-june/ethical-and-intellectual-theory/blob/fa1de43c27557c9f4e277d8dd6fbd9fc96a46cae/blue-prints/gates/xOSG-1_OPERATIONS_CONTRACT.md",
+    "erratum_url": "https://github.com/alia-june/ethical-and-intellectual-theory/blob/fa1de43c27557c9f4e277d8dd6fbd9fc96a46cae/blue-prints/gates/ERRATA_2026-11-25_ORDERED_CLEARANCE_ALPHA_LOCK.md",
+    "historical_versions": "Five/six-gate documents retain their own historical or project-local status.",
+    "production_clearance": false,
+    "reported_fixture_scope": "2,084 expected signed-fixture outcomes; not an external trust root or atomic production commit.",
+    "open_proofs": 11,
+    "open_unknowns": 14
+  },
+  "edition_relationship": "The two accounts maintain separately pinned, asymmetric editions. Shared source or duplicate bytes are not independent corroboration; no automatic synchronization is implied."
 }
